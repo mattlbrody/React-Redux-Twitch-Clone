@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "new stream updated",
+      "description": "this is to test user id- updated",
+      "id": 3
+    },
+    {
+      "title": "asfsadf",
+      "description": "sadfas",
+      "userId": "108756210071495232190",
+      "id": 4
+    }
+  ]
+}
